@@ -8,8 +8,47 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1740661075710,
+  "endTimestamp": 1740662666662,
   "failedBuilds": {},
+  "fdroiddata": {
+    "commitId": "6fc13381ff4c3f169aeb2c2c9fbded4f69913308",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/diff/1740661009000.json",
+      "repo/entry.jar",
+      "repo/entry.json",
+      "repo/icons/icon.png",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index-v2.json",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml",
+      "repo/status/running.json"
+    ],
+    "untrackedFiles": [
+      ".direnv/bin/nix-direnv-reload",
+      ".direnv/flake-inputs/01x5k4nlxcpyd85nnr0b9gm89rm8ff4x-source",
+      ".direnv/flake-inputs/4f89j4iigh91vkl9bf4pzd6kd305544q-source",
+      ".direnv/flake-inputs/c45kg5np63692hijn2w7cdbm7s71mf7j-source",
+      ".direnv/flake-inputs/yj1wxm9hh8610iyzqnz75kvs6xl8j3my-source",
+      ".direnv/flake-profile-a5d5b61aa8a61b7d9d765e1daf971a9a578f1cfa",
+      ".direnv/flake-profile-a5d5b61aa8a61b7d9d765e1daf971a9a578f1cfa.rc",
+      ".envrc",
+      "config.yml",
+      "flake.lock",
+      "flake.nix",
+      "keystore.p12",
+      "metadata/6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f.yml",
+      "metadata/bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735.yml",
+      "repo/diff/1740661072000.json",
+      "tmp/apkcache.json",
+      "tmp/repo_1740661009000.json",
+      "tmp/repo_1740661072000.json",
+      "tmp/repo_1740662663000.json"
+    ]
+  },
   "jarsigner": "/nix/store/v5p972p1lsfnb3v62jy3qcf69as7x8wp-openjdk-21.0.5+11/bin/jarsigner",
   "keytool": "/nix/store/v5p972p1lsfnb3v62jy3qcf69as7x8wp-openjdk-21.0.5+11/bin/keytool",
   "needsUpdate": [
@@ -24,6 +63,6 @@
     "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
     "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
   ],
-  "startTimestamp": 1740657472000,
+  "startTimestamp": 1740659063000,
   "subcommand": "update"
 }

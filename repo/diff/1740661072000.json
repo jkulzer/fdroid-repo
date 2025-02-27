@@ -1,0 +1,13 @@
+{
+  "repo": {
+    "icon": {
+      "en-US": {
+        "sha256": "af8edb516313427bce7711003e52116ad8d92422e629656b5e8db570c27fd54e",
+        "size": 681
+      }
+    },
+    "address": "http://localhost:8000/fdroid/repo",
+    "webBaseUrl": "https://jkulzer.github.io/fdroid-repo",
+    "timestamp": 1740662663000
+  }
+}
