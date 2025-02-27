@@ -9,13 +9,13 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "af8edb516313427bce7711003e52116ad8d92422e629656b5e8db570c27fd54e",
-        "size": 681
+        "sha256": "4f64a65a8c56a938cd2811bcec1763628f4c295e1f5e9e6de57e578cb61f5319",
+        "size": 723
       }
     },
-    "address": "http://localhost:8000/fdroid/repo",
+    "address": "http://jkulzer.github.io/fdroid-repo/repo",
     "webBaseUrl": "https://jkulzer.github.io/fdroid-repo",
-    "timestamp": 1740662663000,
+    "timestamp": 1740662773000,
     "categories": {
       "fdroid-repo": {
         "name": {
