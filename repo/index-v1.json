@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1740663504000,
+    "timestamp": 1740663951000,
     "version": 20002,
     "name": "jkulzer fdroid repo",
     "icon": "icon.png",
@@ -21,20 +21,20 @@
       "license": "Unknown",
       "name": "dev.jkulzer.findinberlin",
       "added": 1740661009000,
-      "packageName": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
+      "packageName": "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13",
       "lastUpdated": 1740661009000
     }
   ],
   "packages": {
-    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf": [
+    "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13": [
       {
         "added": 1740661009000,
         "apkName": "dev.jkulzer.findinberlin.yml",
-        "hash": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
+        "hash": "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13",
         "hashType": "sha256",
-        "packageName": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
-        "size": 766,
-        "versionName": "8413352"
+        "packageName": "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13",
+        "size": 765,
+        "versionName": "0209e6f"
       }
     ]
   }

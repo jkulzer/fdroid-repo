@@ -14,11 +14,11 @@
     },
     "address": "http://jkulzer.github.io/fdroid-repo/repo",
     "webBaseUrl": "https://jkulzer.github.io/fdroid-repo",
-    "timestamp": 1740663504000
+    "timestamp": 1740663951000
   },
   "packages": {
     "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f": null,
-    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf": {
+    "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13": {
       "metadata": {
         "added": 1740661009000,
         "categories": [
@@ -30,15 +30,15 @@
         }
       },
       "versions": {
-        "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf": {
+        "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13": {
           "added": 1740661009000,
           "file": {
             "name": "/dev.jkulzer.findinberlin.yml",
-            "sha256": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
-            "size": 766
+            "sha256": "0209e6ffce66243f14c55c580c4ce1907420c106e6c6ac0d17c0c0b6632e4c13",
+            "size": 765
           },
           "manifest": {
-            "versionName": "8413352",
+            "versionName": "0209e6f",
             "versionCode": 0
           }
         }
