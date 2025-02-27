@@ -1,5 +1,11 @@
 {
   "repo": {
+    "name": {
+      "en-US": "jkulzer fdroid repo"
+    },
+    "description": {
+      "en-US": "A collection of some apps"
+    },
     "icon": {
       "en-US": {
         "sha256": "4f64a65a8c56a938cd2811bcec1763628f4c295e1f5e9e6de57e578cb61f5319",
@@ -7,6 +13,35 @@
       }
     },
     "address": "http://jkulzer.github.io/fdroid-repo/repo",
-    "timestamp": 1740662773000
+    "timestamp": 1740663504000
+  },
+  "packages": {
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": null,
+    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf": {
+      "metadata": {
+        "added": 1740661009000,
+        "categories": [
+          "fdroid-repo"
+        ],
+        "lastUpdated": 1740661009000,
+        "name": {
+          "en-US": "dev.jkulzer.findinberlin"
+        }
+      },
+      "versions": {
+        "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf": {
+          "added": 1740661009000,
+          "file": {
+            "name": "/dev.jkulzer.findinberlin.yml",
+            "sha256": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
+            "size": 766
+          },
+          "manifest": {
+            "versionName": "8413352",
+            "versionCode": 0
+          }
+        }
+      }
+    }
   }
 }

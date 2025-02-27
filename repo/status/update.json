@@ -8,25 +8,26 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1740662777092,
+  "endTimestamp": 1740663508133,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "10c32c38723e280627df50368a0a28aac219451b",
+    "commitId": "401f071bcd4f609310286a21935bd88b4b73359f",
     "isDirty": true,
     "modifiedFiles": [
+      "repo/dev.jkulzer.findinberlin.yml",
       "repo/diff/1740661009000.json",
       "repo/diff/1740661072000.json",
+      "repo/diff/1740662663000.json",
       "repo/entry.jar",
       "repo/entry.json",
-      "repo/icons/icon.png",
       "repo/index-v1.jar",
       "repo/index-v1.json",
       "repo/index-v2.json",
       "repo/index.html",
       "repo/index.jar",
-      "repo/index.png",
       "repo/index.xml",
-      "repo/status/running.json"
+      "repo/status/running.json",
+      "repo/status/update.json"
     ],
     "untrackedFiles": [
       ".direnv/bin/nix-direnv-reload",
@@ -41,30 +42,41 @@
       "flake.lock",
       "flake.nix",
       "keystore.p12",
+      "metadata/1c38e5b38071fec413f42cdfe93780410a400ada8c722b2be8464022e1fda481.yml",
       "metadata/6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f.yml",
+      "metadata/8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf.yml",
       "metadata/bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735.yml",
-      "repo/diff/1740662663000.json",
+      "repo/diff/1740662773000.json",
+      "repo/diff/1740663392000.json",
       "tmp/apkcache.json",
       "tmp/repo_1740661009000.json",
       "tmp/repo_1740661072000.json",
       "tmp/repo_1740662663000.json",
-      "tmp/repo_1740662773000.json"
+      "tmp/repo_1740662773000.json",
+      "tmp/repo_1740663392000.json",
+      "tmp/repo_1740663504000.json"
     ]
   },
   "jarsigner": "/nix/store/v5p972p1lsfnb3v62jy3qcf69as7x8wp-openjdk-21.0.5+11/bin/jarsigner",
   "keytool": "/nix/store/v5p972p1lsfnb3v62jy3qcf69as7x8wp-openjdk-21.0.5+11/bin/keytool",
   "needsUpdate": [
+    "1c38e5b38071fec413f42cdfe93780410a400ada8c722b2be8464022e1fda481",
     "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
+    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
     "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
   ],
   "noPackages": [
+    "1c38e5b38071fec413f42cdfe93780410a400ada8c722b2be8464022e1fda481",
     "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
+    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
     "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
   ],
   "noUpdateCheck": [
+    "1c38e5b38071fec413f42cdfe93780410a400ada8c722b2be8464022e1fda481",
     "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
+    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
     "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
   ],
-  "startTimestamp": 1740659173000,
+  "startTimestamp": 1740659904000,
   "subcommand": "update"
 }

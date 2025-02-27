@@ -1,12 +1,12 @@
 {
   "repo": {
-    "timestamp": 1740662773000,
+    "timestamp": 1740663504000,
     "version": 20002,
-    "name": "My First F-Droid Repo Demo",
+    "name": "jkulzer fdroid repo",
     "icon": "icon.png",
     "address": "http://jkulzer.github.io/fdroid-repo/repo",
     "webBaseUrl": "https://jkulzer.github.io/fdroid-repo",
-    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+    "description": "A collection of some apps"
   },
   "requests": {
     "install": [],
@@ -21,20 +21,20 @@
       "license": "Unknown",
       "name": "dev.jkulzer.findinberlin",
       "added": 1740661009000,
-      "packageName": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+      "packageName": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
       "lastUpdated": 1740661009000
     }
   ],
   "packages": {
-    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": [
+    "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf": [
       {
         "added": 1740661009000,
         "apkName": "dev.jkulzer.findinberlin.yml",
-        "hash": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+        "hash": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
         "hashType": "sha256",
-        "packageName": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
-        "size": 808,
-        "versionName": "bfd921e"
+        "packageName": "8413352871c0d882ebb74fdae4febafc94cbe0ea12a5d477228a62b3c7658cdf",
+        "size": 766,
+        "versionName": "8413352"
       }
     ]
   }

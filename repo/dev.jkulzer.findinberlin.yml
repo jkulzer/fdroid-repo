@@ -13,12 +13,13 @@ UpdateCheckMode: Releases
 CurrentVersion: 0.0.5
 CurrentVersionCode: 10
 
+Name: FindInBerlin
+
 Builds:
   - versionName: 0.0.5
     versionCode: 5
     commit: v0.0.5
-    # src: https://github.com/jkulzer/fib-client/archive/refs/tags/v0.0.5.zip
-    # output: app/build/outputs/apk/release/app-release.apk
+    src: https://github.com/jkulzer/fib-client/archive/refs/tags/v0.0.5.zip
     # Direct link to GitHub Releases APK:
     apk: https://github.com/jkulzer/fib-client/releases/download/v0.0.5/fib_client.apk
     # SHA-256 hash of the APK (required):
