@@ -1,6 +1,11 @@
 name: Update F-Droid Repo
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  pages: write
 
 jobs:
   update-fdroid:
