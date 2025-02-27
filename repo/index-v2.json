@@ -1,0 +1,54 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "My First F-Droid Repo Demo"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "b1f27fa87f8cabca50cdcd462a0f500d79d883b965a498d0e49eea560b39be1f",
+        "size": 715
+      }
+    },
+    "address": "https://MyFirstFDroidRepo.org/fdroid/repo",
+    "timestamp": 1740661072000,
+    "categories": {
+      "fdroid-repo": {
+        "name": {
+          "en-US": "fdroid-repo"
+        }
+      }
+    }
+  },
+  "packages": {
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": {
+      "metadata": {
+        "added": 1740661009000,
+        "categories": [
+          "fdroid-repo"
+        ],
+        "lastUpdated": 1740661009000,
+        "name": {
+          "en-US": "dev.jkulzer.findinberlin"
+        }
+      },
+      "versions": {
+        "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": {
+          "added": 1740661009000,
+          "file": {
+            "name": "/dev.jkulzer.findinberlin.yml",
+            "sha256": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+            "size": 808
+          },
+          "manifest": {
+            "versionName": "bfd921e",
+            "versionCode": 0
+          }
+        }
+      }
+    }
+  }
+}

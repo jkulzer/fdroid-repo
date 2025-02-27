@@ -1,0 +1,34 @@
+{
+  "repo": {
+    "timestamp": 1740661072000
+  },
+  "packages": {
+    "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f": null,
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": {
+      "metadata": {
+        "added": 1740661009000,
+        "categories": [
+          "fdroid-repo"
+        ],
+        "lastUpdated": 1740661009000,
+        "name": {
+          "en-US": "dev.jkulzer.findinberlin"
+        }
+      },
+      "versions": {
+        "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": {
+          "added": 1740661009000,
+          "file": {
+            "name": "/dev.jkulzer.findinberlin.yml",
+            "sha256": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+            "size": 808
+          },
+          "manifest": {
+            "versionName": "bfd921e",
+            "versionCode": 0
+          }
+        }
+      }
+    }
+  }
+}

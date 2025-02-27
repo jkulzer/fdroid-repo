@@ -1,0 +1,25 @@
+# Categories:
+#   - Productivity
+# License: MIT
+SourceCode: https://github.com/jkulzer/fib-client
+# WebSite: https://your-app.com
+IssueTracker: https://github.com/jkulzer/fib-client/issues
+
+RepoType: srclib
+Repo: https://github.com/jkulzer/fib-client
+
+AutoUpdateMode: Version
+UpdateCheckMode: Releases
+CurrentVersion: 0.0.5
+CurrentVersionCode: 10
+
+Builds:
+  - versionName: 0.0.5
+    versionCode: 5
+    commit: v0.0.5
+    # src: https://github.com/jkulzer/fib-client/archive/refs/tags/v0.0.5.zip
+    # output: app/build/outputs/apk/release/app-release.apk
+    # Direct link to GitHub Releases APK:
+    apk: https://github.com/jkulzer/fib-client/releases/download/v0.0.5/fib_client.apk
+    # SHA-256 hash of the APK (required):
+    hash: sha256:701af62c5bb0881d79087397aa403bd840163cae10bb064687bb442708d4ed7a

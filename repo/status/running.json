@@ -1,0 +1,29 @@
+{
+  "antiFeatures": {},
+  "apksigner": "/nix/store/w5qkd2msxv1k5x314a9npalaa85snskr-apksigner-34.0.5-unstable-2024-03-06/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/nix/store/nf6brbzyb0ngmshr6snr0wsgjqqn3maq-fdroidserver-2.3.4/bin/fdroid update",
+    "-c",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1740661075710,
+  "failedBuilds": {},
+  "jarsigner": "/nix/store/v5p972p1lsfnb3v62jy3qcf69as7x8wp-openjdk-21.0.5+11/bin/jarsigner",
+  "keytool": "/nix/store/v5p972p1lsfnb3v62jy3qcf69as7x8wp-openjdk-21.0.5+11/bin/keytool",
+  "needsUpdate": [
+    "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
+  ],
+  "noPackages": [
+    "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
+  ],
+  "noUpdateCheck": [
+    "6fad1a0069db7d8df05bb768cacc53eb6512e4562b22326351ed4013a059467f",
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735"
+  ],
+  "startTimestamp": 1740657472000,
+  "subcommand": "update"
+}

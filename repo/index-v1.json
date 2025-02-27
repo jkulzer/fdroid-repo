@@ -1,0 +1,40 @@
+{
+  "repo": {
+    "timestamp": 1740661072000,
+    "version": 20002,
+    "name": "My First F-Droid Repo Demo",
+    "icon": "icon.png",
+    "address": "https://MyFirstFDroidRepo.org/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "categories": [
+        "fdroid-repo"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "dev.jkulzer.findinberlin",
+      "added": 1740661009000,
+      "packageName": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+      "lastUpdated": 1740661009000
+    }
+  ],
+  "packages": {
+    "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735": [
+      {
+        "added": 1740661009000,
+        "apkName": "dev.jkulzer.findinberlin.yml",
+        "hash": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+        "hashType": "sha256",
+        "packageName": "bfd921ec7f87644212307d56fc6a80b86f5bd822187e8f0ea1c33e5ff134f735",
+        "size": 808,
+        "versionName": "bfd921e"
+      }
+    ]
+  }
+}
